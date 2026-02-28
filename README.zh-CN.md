@@ -1,7 +1,7 @@
 <h1 align="center">KDS-Web Migration Skill</h1>
 
 <p align="center">
-  <img src="https://iili.io/qq9Zpqu.png" alt="KDS-Web Migration" />
+  <img src="https://photo.459122.xyz/i/db16ea0b31856af3946fb6714f697f04.png" alt="KDS-Web Migration" />
 </p>
 
 <p align="center">
